@@ -1,3 +1,4 @@
+#3,,,wk3 control flow and functions
 def calculate_discount(price, discount_percent):
     """Calculates the final price after applying a discount if it's 20% or higher."""
     if discount_percent >= 20:
